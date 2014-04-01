@@ -1,5 +1,7 @@
 <?php
 
+// TODO: Add 'inforeq' and 'eventreq' flags to gather more information about a location
+
 // Receives all data about user and sends all locations to app
  
 $hr = date('H');
